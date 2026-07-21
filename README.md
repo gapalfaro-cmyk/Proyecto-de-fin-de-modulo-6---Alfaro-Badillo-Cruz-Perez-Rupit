@@ -48,8 +48,10 @@ Se hicieron diferentes pruebas sobre la misma base de datos "habits - habits.csv
 Los mejores modelos se lograron con al NO normalizar la informacion, estas programaciones se encuentran en:
 - P1Emmanuel
 - Gabriela
+
 Modelos completos normalizando:
 - KMeans
 - P1Casandra
+
 Archivo complementario de análisis de datos
 -EDA
