@@ -46,12 +46,12 @@ Variables:
 # Programas
 Se hicieron diferentes pruebas sobre la misma base de datos "habits - habits.csv" con procesamientos diferentes de la información.
 Los mejores modelos se lograron con al NO normalizar la informacion, estas programaciones se encuentran en:
-- P1Emmanuel
-- Gabriela
+- Modulo_VI_Equipo_15_Habits_E
+- Modulo_VI_Equipo_15_Habits_GA
 
 Modelos completos normalizando:
-- KMeans
-- P1Casandra
+- Modulo_VI_Equipo_15_Habits_L
+- Modulo_VI_Equipo_15_Habits_C
 
 Archivo complementario de análisis de datos
 -EDA
